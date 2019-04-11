@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Navicat 连接MySQL 8.0.15 出现2059错误"
+subtitle:   "Mysql"
+date:       2019-04-10 16:00:00
+author:     "xxspring"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Mysql 
+    - Navicat 
+---
+
+##Navicat 连接MySQL 8.0.15 出现2059错误
+
+使用Navicat Premium 连接MySQL时出现2059错误，原因是 mysql8之前的版本中加密规则是mysql_native_password,而在mysql8之后,加密规则是caching_sha2_password；
+
+
+>解决方案如下
+
+更改加密规则：
+
+```
+mysql -u root -p password #登录
+
+use mysql;#选择数据库 
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'password' PASSWORD EXPIRE NEVER;#更改加密方式
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';#更新用户密码
+
+FLUSHPRIVILEGES;#刷新权限
+```
+
+![截图](img/2019-04-11-Mysql_error_2059.png "错误截图")
