@@ -244,6 +244,12 @@ header img{
 	border-bottom: 1px solid #eeefef;
 }
 
+.cbp_tmlabel #cbp_tmlabel_span{
+	height:100%;
+	display:inline-block;
+	vertical-align:middle;
+}
+
 .cbp_tmlabel p{
     padding: 1em 0;
 	/*text-indent: 2em;*/
