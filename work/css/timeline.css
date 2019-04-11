@@ -238,7 +238,7 @@ header img{
 .cbp_tmlabel img{
 	width: 226px;
 	height: 226px;
-	text-align: center;
+	vertical-align: middle;
 	margin-bottom: 1em;
 	border-top: 1px solid #eeefef;
 	border-bottom: 1px solid #eeefef;
