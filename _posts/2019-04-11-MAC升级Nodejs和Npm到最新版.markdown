@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Navicat 连接MySQL 8.0.15 出现2059错误"
-subtitle:   "Mysql"
+title:      "MAC升级Nodejs和Npm到最新版"
+subtitle:   ""
 date:       2019-04-10 16:00:00
 author:     "xxspring"
 header-img: "img/post-bg-2015.jpg"
