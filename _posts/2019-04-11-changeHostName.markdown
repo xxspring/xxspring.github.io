@@ -10,7 +10,7 @@ tags:
 ---
 
 
-##修改mac终端的主机名显示
+## 修改mac终端的主机名显示
 ```
 $ sudo scutil --set HostName 自定义主机名
 ```
