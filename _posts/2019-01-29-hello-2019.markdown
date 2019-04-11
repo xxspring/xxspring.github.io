@@ -1,18 +1,16 @@
 ---
 layout:     post
-title:      "Welcome to xxspring Blog"
+title:      "Welcome 天下1999的博客"
 subtitle:   " \"Hello World, 第一篇 Blog\""
 date:       2019-04-10 16:00:00
 author:     "xxspring"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 生活 
-    - Markdown 
-    - Html
+    - 生活
 ---
 
 > “Yeah It's start. ”
-
+<br />
 
 ### 前言
 
@@ -36,12 +34,12 @@ xxspring 的 Blog 就这么开通了。
 
 # 正文部分
 
-接下来说说Markdown 的技术细节。（补充中） 
+接下来说说Markdown 的技术细节。（补充中）
 
 来不及看的直接看[参考文档](https://www.w3cschool.cn/markdownyfsm/)吧   
 [官方文档](https://daringfireball.net/projects/markdown/)
 
-# 字体大小 
+# 字体大小
 
 ‘#’ 代表字体号码，越多的‘#’字体越小，类似Html的 h1、h2等标签吧。
 
@@ -52,7 +50,7 @@ xxspring 的 Blog 就这么开通了。
 ##### 字体1
 ###### 字体1
 
-# 超链接 
+# 超链接
 中括号（链接Title）+圆括号（链接URL）
 [我的博客](http://xxspring.github.io) [我的微博](http://weibo.com/xxspring)
 
@@ -62,14 +60,14 @@ xxspring 的 Blog 就这么开通了。
 
 # 高亮显示
 ```
-// 用Tab上的引号来包裹即可 
+// 用Tab上的引号来包裹即可
 //```高亮显示的内容```
 
-echo 'Hello world.'; 
+echo 'Hello world.';
 
 ```
 # 缩进
-用大于号表示 
+用大于号表示
 >1
 >>2
 >>>3

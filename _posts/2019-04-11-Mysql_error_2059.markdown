@@ -7,7 +7,6 @@ author:     "xxspring"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Mysql
-    - Navicat
 ---
 
 ## Navicat 连接MySQL 8.0.15 出现2059错误

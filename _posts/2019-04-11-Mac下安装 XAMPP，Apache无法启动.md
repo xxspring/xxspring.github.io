@@ -7,8 +7,6 @@ author:     "xxspring"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Mac
-    - XAMPP
-    - Apache
 ---
 
 
