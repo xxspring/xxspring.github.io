@@ -53,4 +53,4 @@ $ sudo npm install npm@latest -g
 node-vnpm -v
 ```
 
-![截图](/img/2019-04-11-MAC升级Nodejs和Npm到最新版.png "截图")
+![截图](/img/screen/2019-04-11-MAC升级Nodejs和Npm到最新版.png "截图")
