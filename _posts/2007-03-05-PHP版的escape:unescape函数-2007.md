@@ -5,7 +5,7 @@ title:      "PHP版的escape/unescape函数"
 subtitle:   ""
 date:       2007-03-05 11:16:48
 author:     "xxspring"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/header/post_php.jpg"
 tags:
     - PHP
 ---

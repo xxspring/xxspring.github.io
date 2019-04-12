@@ -4,7 +4,7 @@ title:      "MAC升级Nodejs和Npm到最新版"
 subtitle:   ""
 date:       2019-04-10 16:00:00
 author:     "xxspring"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/header/post_mac.jpg"
 tags:
     - Mac
 ---

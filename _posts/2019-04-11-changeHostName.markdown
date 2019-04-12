@@ -4,8 +4,8 @@ title:      "修改mac终端的主机名显示"
 subtitle:   false
 date:       2019-04-10 16:00:00
 author:     "xxspring"
-header-img: "img/post-bg-2015.jpg"
-tags: 
+header-img: "img/header/post_mac.jpg"
+tags:
     - Mac
 ---
 

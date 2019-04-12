@@ -4,7 +4,7 @@ title:      "Navicat 连接MySQL 8.0.15 出现2059错误"
 subtitle:   "Mysql"
 date:       2019-04-10 16:00:00
 author:     "xxspring"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/header/post_mysql.jpg"
 tags:
     - Mysql
 ---

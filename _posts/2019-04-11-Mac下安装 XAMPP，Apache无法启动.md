@@ -4,7 +4,7 @@ title:      "Mac下安装 XAMPP，Apache无法启动"
 subtitle:   ""
 date:       2019-04-10 16:00:00
 author:     "xxspring"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/header/post_mac.jpg"
 tags:
     - Mac
 ---
