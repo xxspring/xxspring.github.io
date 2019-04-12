@@ -235,19 +235,23 @@ header img{
 	list-style: none;
 }
 
-.cbp_tmlabel img{
+/* .cbp_tmlabel img{
 	width: 226px;
 	height: 226px;
-	vertical-align: middle;
 	margin-bottom: 1em;
 	border-top: 1px solid #eeefef;
 	border-bottom: 1px solid #eeefef;
+} */
+
+.cbp_div{
+	text-align:center
 }
 
-.cbp_tmlabel #cbp_tmlabel_span{
-	height:100%;
-	display:inline-block;
-	vertical-align:middle;
+.cbp_div img{
+	width: 226px;
+	height: 226px;
+	margin-bottom: 1em;
+	border: 1px solid #eeefef;
 }
 
 .cbp_tmlabel p{
